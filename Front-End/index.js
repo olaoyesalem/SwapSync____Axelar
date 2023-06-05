@@ -134,7 +134,9 @@ async function SendByUSerA(){
             /*  address _to i.e User B's Address*/ _to,
             /* amount to recieve , since User a wants to reciev 1 matic then */ethers.utils.parseEther("1"),
             /**destinationChain Should be string  */ "Polygon", // It is polygon since it is taliking to the polygon blockchain
-            /** destinationAddress */ Polygon // This is the destination address of SwapSync smart contract
+            /** destinationAddress */ Polygon, // This is the destination address of SwapSync smart contract
+          {value:gasFee+ ethers.utils.parseEther("2")}// This is because the user AA is send @ avax
+          // He addds the gas fees
             ) // then itt talks to the polygon network
            await listenForTxnMine(txnResponse,provider)
                 console.log("SuccessFul")
