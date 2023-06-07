@@ -5,6 +5,18 @@
 
 Welcome to SyncSwap, the one-stop marketplace for seamless token swaps! With SyncSwap, you can easily connect with other users and exchange tokens that you need, creating a synchronized ecosystem of swapping possibilities. Whether you're looking to trade AVAX for  MATIC or any other token combination, SyncSwap has got you covered!
 
+
+## Team Members
+- **OLAOYE SALEM IYANULOLUWA** olaoyesalemgreat@gmail.com
+<br></br>
+- **OLAH ISRAEL** olahisrael07@gmail.com
+
+## Members Role
+
+- **Olaoye Salem Iyanuloluwa** : Responsible for writing and deploying smart contract;writing tests for the smart contract ,and co- writing the script connecting Front-End and smart contract using web3.js,ethers.js,hardhat.
+- **Benjamin Easter**: Responsible Writing the front-end and co-writing the script connecting Front-End and smart contract  using web3.js
+
+
 ## Features
 **Token Swapping Made Effortless**: With the help of axelar's groundbreaking technology and it's GMP function,Our intuitive platform allows you to create and browse swap offers with ease. Find the tokens you need and connect with users who are willing to trade. No more  endless searching and complex procedures!
 
@@ -18,7 +30,9 @@ From Goerli Ethereum to Avalanche, to Polygon,Fantom etc. Unleash the power of c
 ## Getting Started
 To get started with SyncSwap, follow these simple steps:
 
-visit [Link]
+*visit [Link]
+
+
 **Browse Swap Offers**: Explore the marketplace to discover swap offers that match your requirements. Find the tokens you need and review the details of each offer, including the tokens offered and tokens requested.
 
 **Create a Swap Offer**: If you can't find an existing swap offer that suits your needs, create your own! Specify the tokens you have and the tokens you want, and set the desired swap ratio.
