@@ -13,8 +13,8 @@ Welcome to SyncSwap, the one-stop marketplace for seamless token swaps! With Syn
 
 ## Members Role
 
-- **Olaoye Salem Iyanuloluwa** : Responsible for writing and deploying smart contract;writing tests for the smart contract ,and co- writing the script connecting Front-End and smart contract using web3.js,ethers.js,hardhat.
-- **Benjamin Easter**: Responsible Writing the front-end and co-writing the script connecting Front-End and smart contract  using web3.js
+- **Olaoye Salem Iyanuloluwa** : Responsible for writing and deploying smart contract; co- writing the script connecting Front-End and smart contract.
+- **Benjamin Easter**: Responsible Writing the front-end and co-writing the script connecting Front-End and smart contract.
 
 
 ## Features
@@ -68,3 +68,10 @@ This project is licensed under the MIT License.
 * Linea 59140
 * Filecoin 3141
 * Kava 2221
+
+## Technologies
+* Solidity
+* Remix-IDE
+* ethers.js
+* axelar
+* hardhat
