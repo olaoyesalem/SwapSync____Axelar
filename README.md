@@ -2,12 +2,11 @@
 
 # SyncSwap - The Ultimate Token Swapping Marketplace
 ### AN OSCAFEST X AXELAR HACKHATHON PROJECT 
-SyncSwap
 
-Welcome to SyncSwap, the one-stop marketplace for seamless token swaps! With SyncSwap, you can easily connect with other users and exchange tokens that you need, creating a synchronized ecosystem of swapping possibilities. Whether you're looking to trade AVAX for MATIC or any other token combination, SyncSwap has got you covered!
+Welcome to SyncSwap, the one-stop marketplace for seamless token swaps! With SyncSwap, you can easily connect with other users and exchange tokens that you need, creating a synchronized ecosystem of swapping possibilities. Whether you're looking to trade AVAX for  MATIC or any other token combination, SyncSwap has got you covered!
 
 ## Features
-Token Swapping Made Effortless: With the help of axelar's groundbreaking technology and it's GMP function,Our intuitive platform allows you to create and browse swap offers with ease. Find the tokens you need and connect with users who are willing to trade. No more endless searching and complex procedures!
+Token Swapping Made Effortless: With the help of axelar's groundbreaking technology and it's GMP function,Our intuitive platform allows you to create and browse swap offers with ease. Find the tokens you need and connect with users who are willing to trade. No more     endless searching and complex procedures!
 
 Secure and Reliable: SyncSwap prioritizes the security of your tokens. We leverage the cutting-edge technology of Axelar, the sponsor of this hackathon, to ensure the utmost safety and trustworthiness throughout the swapping process.
 
