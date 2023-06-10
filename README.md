@@ -71,6 +71,14 @@ https://testnet.axelarscan.io/gmp/0x5e9b5e0c64f0eddf5b1ed6f98ce21371d76e8c54a00b
 * Filecoin 3141
 * Kava 2221
 
+### Positive experiences of learning and using Axelar:
+
+I experienced expanded interoperability for my dApps: With Axelar, I was able to build decentralized applications (dApps) that seamlessly interacted with multiple blockchain networks. This empowered me to create innovative solution that leveraged the functionalities and assets from various chains(which is a key part to the creation of SwapSync). Axelar's cross-chain communication capabilities allowed me to provide a comprehensive user experience, which will enable my users to effortlessly interact with different chains and access a wide range of applications and assets with just a single click.
+
+I trusted in the security and stability of Axelar: Axelar's use of the proven proof-of-stake (PoS) consensus mechanism, employed by reputable blockchain networks like Ethereum, Polygon, and Cosmos, gave me confidence in the security and stability of my cross-chain transactions. Building on PoS, Axelar ensured a robust and secure environment for my interchain applications. This allowed me to focus on building innovative solutions without compromising the safety and integrity of my users' transactions.
+
+
+
 ## Technologies
 * Solidity
 * Remix-IDE
