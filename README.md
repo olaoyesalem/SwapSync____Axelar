@@ -42,6 +42,28 @@ To get started with SyncSwap, follow these simple steps:
 **Stay Engaged**: Stay connected with the SyncSwap community to discover new swap opportunities, engage in discussions, and share your swapping experiences. We're building a collaborative ecosystem together!
 
 
+## How To Clone and Use The Project
+
+1. Clone the project by running the command
+
+```sh
+ git clone https://github.com/olaoyesalem/SwapSync____Axelar.git
+```
+
+2. Install the dependencies by running the command
+
+```sh
+ npm i
+```
+
+3. Run the application by running the command
+
+```sh
+ npm run dev
+```
+
+4. Connect your wallet to the application
+5. Make your Swap!
 
 ### Support
 If you encounter any issues, have questions, or need assistance, our dedicated support team is here to help! Feel free to reach out to us at 
