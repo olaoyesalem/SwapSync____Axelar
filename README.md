@@ -65,19 +65,10 @@ I trusted in the security and stability of Axelar: Axelar's use of the proven pr
 
 ### SwapSync Supported Chains and ChainId[TESTNETS]
 * Ethereum Goerli 5
-* BNB Chain 97
 * Polygon  80001
 * Avalanche 43113
 * Fantom 4002
-* Moonbase 1287
-* Aurora 1313161555
-* Celo 44787
-* Arbitrum 421613
-* Optimism 420
-* Base  84531
-* Linea 59140
-* Filecoin 3141
-* Kava 2221
+
 
 ## Technologies
 * Solidity
