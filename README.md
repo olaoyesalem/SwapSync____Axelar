@@ -53,6 +53,8 @@ If you encounter any issues, have questions, or need assistance, our dedicated s
 ### License
 This project is licensed under the MIT License.
 
+### AXELAR LINK
+https://testnet.axelarscan.io/gmp/0x5e9b5e0c64f0eddf5b1ed6f98ce21371d76e8c54a00b68bfa7ccd5debf2a913c
 ### Supported Chains and ChainId[TESTNETS]
 * Ethereum Goerli 5
 * BNB Chain 97
