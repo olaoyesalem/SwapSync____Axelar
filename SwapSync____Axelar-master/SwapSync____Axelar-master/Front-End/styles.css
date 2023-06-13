@@ -1,0 +1,167 @@
+/* Reset some default styles */
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    background-color: #f2f2f2;
+    padding: 10px;
+  }
+  
+  nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .logo a {
+    text-decoration: none;
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .navigation {
+    display: flex;
+    list-style: none;
+  }
+  
+  .navigation li {
+    margin-left: 20px;
+  }
+  
+  .connect-wallet {
+    display: none;
+  }
+  
+  .theme-toggle {
+    margin-left: 10px;
+  }
+  
+  .switch {
+    position: relative;
+    display: inline-block;
+    width: 40px;
+    height: 20px;
+  }
+  
+  .switch input {
+    display: none;
+  }
+  
+  .slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    border-radius: 34px;
+    transition: .4s;
+  }
+  
+  .slider:before {
+    position: absolute;
+    content: "";
+    height: 16px;
+    width: 16px;
+    left: 2px;
+    bottom: 2px;
+    background-color: white;
+    border-radius: 50%;
+    transition: .4s;
+  }
+  
+  input:checked + .slider {
+    background-color: #2196F3;
+  }
+  
+  input:checked + .slider:before {
+    transform: translateX(20px);
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  #hero {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  
+  #hero h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+  }
+  
+  #hero h2 {
+    font-size: 18px;
+    margin-bottom: 30px;
+    color: #888;
+  }
+  
+  .video-banner {
+    width: 100%;
+    height: 300px;
+    background-color: #f2f2f2;
+    /* Add video styling here */
+  }
+  
+  .cta-button {
+    display: inline-block;
+    background-color: #2196F3;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 4px;
+    text-decoration: none;
+  }
+  
+  #about {
+    margin-bottom: 40px;
+  }
+  
+  #about h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  #team {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  
+  #team h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  footer {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .footer-content ul {
+    list-style: none;
+    margin-bottom: 10px;
+  }
+  
+  .footer-content li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  .footer-content li a {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  .footer-content p {
+    color: #888;
+  }
+  
