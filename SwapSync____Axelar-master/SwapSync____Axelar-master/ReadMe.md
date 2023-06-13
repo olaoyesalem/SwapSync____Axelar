@@ -65,12 +65,13 @@ Make your Swap!
 #### SwapSync Interaction Flow
 The following steps outline the interaction flow within the SwapSync platform:
 
-User A visits SwapSync and creates an offer, specifying the token they have and the token they want to swap. This offer is displayed in the offer section of the platform.
-User B discovers User A's offer on SwapSync and decides to accept it.
-User A receives an email notification confirming that their offer has been accepted. The notification includes details about the accepting user (User B) and the tokens involved in the swap.
-User A returns to SwapSync and proceeds with the swap transaction, utilizing the smart contract to facilitate the token exchange.
-The swap is executed, transferring the specified amount of tokens from User A to User B, and vice versa.
-Both User A and User B receive a confirmation of the successful swap.
+* User A visits SwapSync and creates an offer, specifying the token they have and the token they want to swap. This offer is displayed in the offer section of the platform.
+* User B discovers User A's offer on SwapSync and decides to accept it.
+* User A receives an email notification confirming that their offer has been accepted. The notification includes details about the accepting user (User B) and the tokens involved in the swap.
+* User A returns to SwapSync and proceeds with the swap transaction, utilizing the smart contract to facilitate the token exchange.
+* The swap is executed, transferring the specified amount of tokens from User A to User B, and vice versa.
+* Both User A and User B receive a confirmation of the successful swap.
+<br>
 Please note that the above flow assumes the successful integration of the smart contract and front-end interface, which is currently under development and not finalized in this repository.
 
  ##### Smart Contract
