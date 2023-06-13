@@ -31,6 +31,7 @@ From Goerli Ethereum to Avalanche, to Polygon,Fantom etc. Unleash the power of c
 To get started with SwapSync, follow these simple steps:
 
 *visit [Link]
+**Create an Account**: Sign up for a SyncSwap account with your email  at syncswap.com and complete the registration process. It's fast, easy, and free!
 
 
 **Browse Swap Offers**: Explore the marketplace to discover swap offers that match your requirements. Find the tokens you need and review the details of each offer, including the tokens offered and tokens requested.
