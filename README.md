@@ -20,11 +20,11 @@ Welcome to SwapSync, the one-stop marketplace for seamless token swaps! With Swa
 ## Features
 **Token Swapping Made Effortless**: With the help of Axelar's groundbreaking technology and it's GMP function,Our intuitive platform allows you to create and browse swap offers with ease. Find the tokens you need and connect with users who are willing to trade. No more  endless searching and complex procedures!
 
-**Secure and Reliable**:SwapSync prioritizes the security of your tokens. We leverage the cutting-edge technology of Axelar, the sponsor of this hackathon, to ensure the utmost safety and trustworthiness throughout the swapping process.
+**Secure and Reliable**: SwapSync prioritizes the security of your tokens. We leverage the cutting-edge technology of Axelar, the sponsor of this hackathon, to ensure the utmost safety and trustworthiness throughout the swapping process.
 
 **Community-Driven**: Join a vibrant community of token enthusiasts, traders, and blockchain explorers. Collaborate, discuss, and discover new swapping opportunities within our platform. SwapSync is where like-minded individuals unite!
 
-**Flexible Token Support**:Although,this version of SwapSync is on testnet. It supports a wide variety of tokens across different blockchains
+**Flexible Token Support**: Although,this version of SwapSync is on testnet. It supports a wide variety of tokens across different blockchains
 From Goerli Ethereum to Avalanche, to Polygon,Fantom etc. Unleash the power of cross-chain swapping and expand your token portfolio.
 
 ## Getting Started
