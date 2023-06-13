@@ -7,7 +7,7 @@ Welcome to SwapSync, the one-stop marketplace for seamless token swaps! With Swa
 
  * #### Team Members
  **OLAOYE SALEM IYANULOLUWA olaoyesalemgreat@gmail.com**
- OLAH ISRAEL olahisrael07@gmail.com
+ **OLAH ISRAEL olahisrael07@gmail.com**
 
 * #### Members Role
    **Olaoye Salem Iyanuloluwa**: Responsible for writing and deploying smart contract; co- writing the script connecting Front-End and smart contract.
