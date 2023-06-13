@@ -41,11 +41,11 @@ Visit https://swapsync.000webhostapp.com
 
 
 
-##### Project Status
+#### Project Status
 As of 13/06/2023, the SwapSync project is currently in a partially integrated state. The smart contract has been developed and thoroughly tested, while the front-end interface has been completed separately. Due to time constraints, the integration of the smart contract and front-end components has not been finalized.
 
 
-##### How To Clone and Use The Project
+#### How To Clone and Use The Project
 * Clone the project by running the command
  ```
  git clone https://github.com/olaoyesalem/SwapSync____Axelar.git
@@ -62,7 +62,7 @@ As of 13/06/2023, the SwapSync project is currently in a partially integrated st
 Connect your wallet to the application
 Make your Swap!
 
-##### Flow of SwapSync
+#### Flow of SwapSync
 The following outlines the flow of interactions within the SwapSync platform:
 
 User A visits SwapSync and creates an offer specifying the token they have and the token they want to swap. This offer is then populated in the offer section of the platform.
