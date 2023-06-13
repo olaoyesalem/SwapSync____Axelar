@@ -15,6 +15,9 @@ import{Goerli,
     Polygon,
     abi} from "../Front-End/constants.js"
 
+    let addresses =[Goerli,Avalanche,Fantom,Polygon]
+    let addressName = ["Ethereum Goerli","Avalanche","Fantom","Polygon"]
+
 
 
 const connectButton = document.getElementById("connectButton")
@@ -53,9 +56,7 @@ function listenForTxnMine(txnResponse, provider) {
 async function connect(){
     if(typeof window.ethereum !=="undefined"){
         try {
-            
             await window.ethereum.request({method:'eth_requestAccounts'})
-
         } catch (error) {
             console.log(error)
             
@@ -80,16 +81,19 @@ async  function sendByUserB(){// User B is the one that accepted the offer
 
 
     const amount = document.getElementById("amount").value
+    let index // this is from the front-end, the index of each address 
 
-    
+    // From the front one should have like an index for the addresses
+    // So, it a user toggles polygon .
+    // From addresses in line 18, polygon is index  3
     if(typeof window.ethereum !=="undefined"){
         const provider = new ethers.providers.Web3Provider(window.ethereum)
         const signer = provider.getSigner()
-        const contract = new ethers.Contract(Polygon,abi,signer)
+        const contract = new ethers.Contract(addresses[index],abi,signer) // For polygon
     
             try {
                 let txn ={
-                    to:Polygon,
+                    to:addresses[index],
                     value:ethers.utils.parseEther(amount)
                 }
            const txnResponse = await signer.sendTransaction(txn) 
@@ -123,19 +127,21 @@ async function SendByUSerA(){
     // So if User A wants to send 2 avax and get 1 matic back
     // That means he is talking from avalanche to the polygon muimbai netywork
     if(typeof window.ethereum !=="undefined"){
+        let index
+        const amount = document.getElementById("amountForUserA")
         const provider = new ethers.providers.Web3Provider(window.ethereum)
         const signer = provider.getSigner()
-        const contract = new ethers.Contract(Avalanche,abi,signer) // therefore this will be avalanche, according to what I said 4 lines above
+        const contract = new ethers.Contract(addresses[index],abi,signer) // therefore this will be avalanche, according to what I said 4 lines above
     
 
 
             try{
            const txnResponse = await contract.sendMessage(
             /*  address _to i.e User B's Address*/ _to,
-            /* amount to recieve , since User a wants to reciev 1 matic then */ethers.utils.parseEther("1"),
-            /**destinationChain Should be string  */ "Polygon", // It is polygon since it is taliking to the polygon blockchain
+            /* amount to recieve , since User a wants to reciev 1 matic then */ethers.utils.parseEther("1"), // This is frommthe offer Id
+            /**destinationChain Should be string  */ addressName[index], // It is polygon since it is taliking to the polygon blockchain
             /** destinationAddress */ Polygon, // This is the destination address of SwapSync smart contract
-          {value:gasFee+ ethers.utils.parseEther("2")}// This is because the user AA is send @ avax
+          {value:gasFee+ ethers.utils.parseEther(amount)}// This is because the user AA is send @ avax
           // He addds the gas fees
             ) // then itt talks to the polygon network
            await listenForTxnMine(txnResponse,provider)
