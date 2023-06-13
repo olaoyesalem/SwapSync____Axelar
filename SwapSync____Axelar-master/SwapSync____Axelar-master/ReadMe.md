@@ -1,28 +1,31 @@
-SwapSync____Axelar
-SwapSync - The Ultimate Token Swapping Marketplace
-AN OSCAFEST X AXELAR HACKHATHON PROJECT
+# SwapSync____Axelar
+## SwapSync - The Ultimate Token Swapping Marketplace
+
+### *AN OSCAFEST X AXELAR HACKHATHON PROJECT*
+
 Welcome to SwapSync, the one-stop marketplace for seamless token swaps! With SwapSync, you can easily connect with other users and exchange tokens that you need, creating a synchronized ecosystem of swapping possibilities. Whether you're looking to trade AVAX for MATIC or any other token combination, SwapSync has got you covered!
 
-Team Members
-OLAOYE SALEM IYANULOLUWA olaoyesalemgreat@gmail.com
+ * #### Team Members
+ **OLAOYE SALEM IYANULOLUWA olaoyesalemgreat@gmail.com**
+ OLAH ISRAEL olahisrael07@gmail.com
 
-OLAH ISRAEL olahisrael07@gmail.com
-Members Role
-Olaoye Salem Iyanuloluwa : Responsible for writing and deploying smart contract; co- writing the script connecting Front-End and smart contract.
-OLAH ISRAEL: Responsible Writing the front-end and co-writing the script connecting Front-End and smart contract.
-Features
-Token Swapping Made Effortless: With the help of Axelar's groundbreaking technology and it's GMP function,Our intuitive platform allows you to create and browse swap offers with ease. Find the tokens you need and connect with users who are willing to trade. No more endless searching and complex procedures!
+* #### Members Role
+   **Olaoye Salem Iyanuloluwa**: Responsible for writing and deploying smart contract; co- writing the script connecting Front-End and smart contract.
+  **OLAH ISRAEL**:Responsible Writing the front-end and co-writing the script connecting Front-End and smart contract.
 
-Secure and Reliable:SwapSync prioritizes the security of your tokens. We leverage the cutting-edge technology of Axelar, the sponsor of this hackathon, to ensure the utmost safety and trustworthiness throughout the swapping process.
+##### Features
+**Token Swapping Made Effortless**: With the help of Axelar's groundbreaking technology and it's GMP function,Our intuitive platform allows you to create and browse swap offers with ease. Find the tokens you need and connect with users who are willing to trade. No more endless searching and complex procedures!
 
-Community-Driven: Join a vibrant community of token enthusiasts, traders, and blockchain explorers. Collaborate, discuss, and discover new swapping opportunities within our platform. SwapSync is where like-minded individuals unite!
+**Secure and Reliable**:SwapSync prioritizes the security of your tokens. We leverage the cutting-edge technology of Axelar, the sponsor of this hackathon, to ensure the utmost safety and trustworthiness throughout the swapping process.
 
-Flexible Token Support:Although,this version of SwapSync is on testnet. It supports a wide variety of tokens across different blockchains From Goerli Ethereum to Avalanche, to Polygon,Fantom etc. Unleash the power of cross-chain swapping and expand your token portfolio.
+**Community-Driven**: Join a vibrant community of token enthusiasts, traders, and blockchain explorers. Collaborate, discuss, and discover new swapping opportunities within our platform. SwapSync is where like-minded individuals unite!
 
-Getting Started
+**Flexible Token Support**:Although,this version of SwapSync is on testnet. It supports a wide variety of tokens across different blockchains From Goerli Ethereum to Avalanche, to Polygon,Fantom etc. Unleash the power of cross-chain swapping and expand your token portfolio.
+
+####Getting Started
 To get started with SwapSync, follow these simple steps:
 
-*visit [Link]
+*https://swapsync.000webhostapp.com
 
 Browse Swap Offers: Explore the marketplace to discover swap offers that match your requirements. Find the tokens you need and review the details of each offer, including the tokens offered and tokens requested.
 
