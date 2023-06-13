@@ -28,6 +28,7 @@ Welcome to SwapSync, the one-stop marketplace for seamless token swaps! With Swa
 To get started with SwapSync, follow these simple steps:
   <br>
 Visit https://swapsync.000webhostapp.com
+**Register:** To get started, simply register at SwapSync using your email and password.
 
 **Browse Swap Offers**: Explore the marketplace to discover swap offers that match your requirements. Find the tokens you need and review the details of each offer, including the tokens offered and tokens requested.
 
