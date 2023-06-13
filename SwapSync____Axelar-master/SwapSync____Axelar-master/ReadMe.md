@@ -74,7 +74,7 @@ The following steps outline the interaction flow within the SwapSync platform:
 <br>
 Please note that the above flow assumes the successful integration of the smart contract and front-end interface, which is currently under development and not finalized in this repository.
 
- ##### Smart Contract
+#### Smart Contract
 To use the smart contract, follow these steps:
 
 * **Step 1**: Go to the contract folder and deploy the smart contract.
