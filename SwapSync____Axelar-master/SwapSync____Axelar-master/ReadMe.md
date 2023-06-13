@@ -15,7 +15,7 @@ Welcome to SwapSync, the one-stop marketplace for seamless token swaps! With Swa
   **OLAH ISRAEL**:Responsible Writing the front-end and co-writing the script connecting Front-End and smart contract.
 
 ##### Features
-  <br>
+  
 **Token Swapping Made Effortless**: With the help of Axelar's groundbreaking technology and it's GMP function,Our intuitive platform allows you to create and browse swap offers with ease. Find the tokens you need and connect with users who are willing to trade. No more endless searching and complex procedures!
 
 **Secure and Reliable**:SwapSync prioritizes the security of your tokens. We leverage the cutting-edge technology of Axelar, the sponsor of this hackathon, to ensure the utmost safety and trustworthiness throughout the swapping process.
@@ -28,6 +28,7 @@ Welcome to SwapSync, the one-stop marketplace for seamless token swaps! With Swa
 To get started with SwapSync, follow these simple steps:
   <br>
 Visit https://swapsync.000webhostapp.com
+<br>
 **Register:** To get started, simply register at SwapSync using your email and password.
 
 **Browse Swap Offers**: Explore the marketplace to discover swap offers that match your requirements. Find the tokens you need and review the details of each offer, including the tokens offered and tokens requested.
