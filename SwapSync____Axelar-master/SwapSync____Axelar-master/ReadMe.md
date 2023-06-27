@@ -9,12 +9,17 @@ Welcome to SwapSync, the one-stop marketplace for seamless token swaps! With Swa
  **OLAOYE SALEM IYANULOLUWA olaoyesalemgreat@gmail.com**
  <br>
  **OLAH ISRAEL olahisrael07@gmail.com**
+ <br>
+  **IVOR  EDAFE  ivoredafej@gmail.com**
+ <br>
 
 
 * #### Members Role
    **Olaoye Salem Iyanuloluwa**: Responsible for writing and deploying smart contract; co- writing the script connecting Front-End and smart contract.
   <br>
   **OLAH ISRAEL**:Responsible Writing the front-end and co-writing the script connecting Front-End and smart contract.
+  <br>
+  **IVOR EDAFE** : Responsible for co-writing the front-end and the backend.
 
 #### Features
   
@@ -44,7 +49,7 @@ Visit https://swapsync.000webhostapp.com
 
 
 #### Project Status
-As of 13/06/2023, the SwapSync project is currently in a partially integrated state. The smart contract has been developed and thoroughly tested, while the front-end interface has been completed separately. Due to time constraints, the integration of the smart contract and front-end components has not been finalized.
+As of 27/06/2023, the SwapSync project is currently in a partially integrated state. The smart contract has been developed and thoroughly tested, while the front-end interface has been completed separately. Due to time constraints, the integration of the smart contract and front-end components has not been finalized.
 
 
 #### How To Clone and Use The Project
