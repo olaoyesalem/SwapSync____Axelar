@@ -1,0 +1,1 @@
+web: gunicorn swapsync_project.wsgi --log-file -
