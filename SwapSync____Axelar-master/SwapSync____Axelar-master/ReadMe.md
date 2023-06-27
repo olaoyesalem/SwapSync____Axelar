@@ -101,7 +101,10 @@ If you encounter any issues, have questions, or need assistance, our dedicated s
 
 olaoyesalemgreat@gmail.com .
 <br>
-olahisrael07@gmail.com We'll be more than happy to assist you.
+olahisrael07@gmail.com
+<br>
+ivoredafej@gmail.com
+We'll be more than happy to assist you.
 #### License
 This project is licensed under the MIT License.
 
