@@ -3,7 +3,7 @@
 
 ### *AN OSCAFEST X AXELAR HACKHATHON PROJECT*
 
-Welcome to SwapSync, the one-stop marketplace for seamless token swaps! With SwapSync, you can easily connect with other users and exchange tokens that you need , creating a synchronized ecosystem of swapping possibilities- Trade by barter. Whether you're looking to trade AVAX for MATIC or any other token combination, SwapSync has got you covered!
+Introducing SwapSync, the revolutionary marketplace where token swapping reaches new heights! Step into a synchronized ecosystem of endless possibilities as you connect with like-minded traders and unlock the true potential of decentralized exchange. With SwapSync, trading goes beyond the ordinary, embracing an unorthodox approach of "trade by barter," empowering users to create their own personalized marketplace. It's a game-changer that puts the power back into the hands of the people, fueling a new era of decentralization. Trade better, swap smarter, and experience the future of token swaps with SwapSync!
 
  * #### Team Members
  **OLAOYE SALEM IYANULOLUWA olaoyesalemgreat@gmail.com**
