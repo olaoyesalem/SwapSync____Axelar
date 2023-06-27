@@ -34,7 +34,7 @@ Introducing SwapSync, the revolutionary marketplace where token swapping reaches
 #### Getting Started
 To get started with SwapSync, follow these simple steps:
   <br>
-Visit https://swapsync.000webhostapp.com
+Visit https://swapsync-frontend.vercel.app/
 <br>
 **Register:** To get started, simply register at SwapSync using your email and password.
 
