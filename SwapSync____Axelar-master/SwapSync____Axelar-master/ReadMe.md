@@ -1,9 +1,9 @@
-# SwapSync____Axelar
+# SwapSync____Axelar💱
 ## SwapSync - The Ultimate Token Swapping Marketplace
 
 ### *AN OSCAFEST X AXELAR HACKHATHON PROJECT*
 
-Welcome to SwapSync, the one-stop marketplace for seamless token swaps! With SwapSync, you can easily connect with other users and exchange tokens that you need, creating a synchronized ecosystem of swapping possibilities. Whether you're looking to trade AVAX for MATIC or any other token combination, SwapSync has got you covered!
+Welcome to SwapSync, the one-stop marketplace for seamless token swaps! With SwapSync, you can easily connect with other users and exchange tokens that you need , creating a synchronized ecosystem of swapping possibilities- Trade by better. Whether you're looking to trade AVAX for MATIC or any other token combination, SwapSync has got you covered!
 
  * #### Team Members
  **OLAOYE SALEM IYANULOLUWA olaoyesalemgreat@gmail.com**
@@ -83,10 +83,14 @@ Please note that the above flow assumes the successful integration of the smart 
 
 #### Smart Contract
 To use the smart contract, follow these steps:
+This use case 
+assumes that a user A wants 1 matic and has 2 Avax up for grabs.
+It also assumes User A has created the  offer above .
+It also assumes that User B has accepted User A's offer.
 
 * **Step 1**: Go to the contract folder and deploy the smart contract.
 * **Step 2**: User B sends native token to the smart contract of swap sync of the desired chain(e.g. User B sneds matic to Polygon chain ).
-* **Step 3**: User A sends his token(the one he wants to swap) to user B, pays for gas and send a struct to instruct the smart contract on the polygon chain to send User A's token(the token sent by User B to the polygon smart contract) to User A's address using axelar's GMP by calling this function
+* **Step 3**: User A sends his token(the one he wants to swap) to user B, pays for gas simulteneously sending a struct to  the smart contract on the polygon chain to send User A's token(the token sent by User B to the polygon smart contract) to User A's address using axelar's GMP by calling this function
   ```
   function sendMessage(address   _to,uint256 amountToRecieve, string calldata destinationChain, string calldata destinationAddress)external payable   {}
 
